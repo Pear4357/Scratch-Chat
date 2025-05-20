@@ -1,0 +1,2 @@
+# Emojis
+List of emojis.
