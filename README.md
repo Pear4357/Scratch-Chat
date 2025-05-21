@@ -28,6 +28,12 @@ This is the official page for Pear-Studios' chat system. For info about commands
   
 /username
 - Changes your username in-game.
+
+/block
+- Blocks someone.
+
+/unblock
+- Unblocks someone.
   
 ## Extra Commands (unavailable to the public)
 /announcement
@@ -48,6 +54,9 @@ H
   
 S
 - Turn on/off sound.
+
+B
+- Shows the blocked messages, along with showing the list of users banned.
   
 # Syntax
 @(username)
