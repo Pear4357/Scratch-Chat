@@ -58,7 +58,11 @@ S
 - To find the emoji you want, go to the file named `annotated_emojis.txt`, then use `Ctrl+F` to find said emoji. Then, go back into the project and type ":#:" (replace the "#" with the line number from the .txt file).
 
 # FAQ
-Why doesn't () work?
+Who/what is "CS"?
+- CS stands for chat system.
+- It's basically an auto bot that detects spam, kick attempts, and any client side changes.
+
+Why doesn't (string) work?
 - Because it isn't supported.
 
 Why can't I type emojis into my message? Why do I have to use syntax?
