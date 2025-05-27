@@ -10,6 +10,7 @@ This is the official page for Pear-Studios' chat system. For info about commands
 /msg
 - DM someone using thier ID.
 - You must be in the same server.
+
 /server
 - Changes your server.
 - Everyone starts at server 0.
